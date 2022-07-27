@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swfit&logoColor=white"/>
-<img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=IOS&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HakKyu%20KIM&fontSize=90" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swfit&logoColor=white"/><img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=IOS&logoColor=white"/>
 
 Hi there 👋
 
